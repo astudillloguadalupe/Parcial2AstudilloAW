@@ -6,7 +6,7 @@ Repositorio correspondiente al Parcial 2 de Aplicaciones Web 1.
 
 Consigna del parcial: AW1 - PARCIAL 2 - PRÁCTICA.pdf
 
-Informe técnico: informe/Parcial2_AW1_Astudillo.docx
+Informe técnico: informe/Parcial2 AW Astudillo.pdf
 
 Capturas: carpeta capturas, donde se encuentran las capturas del código y del resultado visible en el navegador.
 
@@ -18,5 +18,3 @@ Archivos incluidos:
 - catalogo.html: página que carga index.js.
 
 Los archivos incluidos en la carpeta codigo fueron copiados del TP grupal para facilitar la consulta de la funcionalidad analizada.
-
-El proyecto completo se encuentra en el repositorio correspondiente al TP4.
